@@ -4,7 +4,7 @@ function Signup() {
       <div className=" back h-screen flex justify-center items-center">
         <h1 className="h1 flex-none text-8xl mr-20">WalkWise</h1>
         <div className=" container w-1/3 h-1/3 shadow-2xl">
-          <form className=" bg-red-50 shadow-md rounded px-8 pt-6 pb-8 mb-4  ">
+          <form className=" bg-gray-100 shadow-md rounded px-8 pt-6 pb-8 mb-4  ">
             <div className="mb-4">
               <label
                 className="block text-gray-700 text-sm font-bold mb-2"
